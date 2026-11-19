@@ -1,0 +1,13 @@
+ulasan,label_asli,prediksi_naive_bayes,prediksi_svm
+Pelayanan tata usaha kurang ramah dan sering mengabaikan mahasiswa,negatif,positif,positif
+"Tidak ada keluhan dan tidak ada pujian, semua berjalan normal",netral,negatif,negatif
+Proyektor dan sound system di aula berfungsi dengan baik,positif,negatif,positif
+Saya senang sekali dengan metode mengajar dosen yang interaktif,positif,netral,netral
+"Mata kuliah ini menyenangkan dan banyak praktik, saya suka",positif,netral,netral
+"Mantap banget penjelasan dosen hari ini, langsung paham",positif,negatif,positif
+"Sangat mengecewakan, dosen tidak memberi feedback sama sekali",negatif,negatif,positif
+"Tempat duduk di perpustakaan kurang, selalu penuh",negatif,positif,positif
+"Dosen suka marah-marah di kelas, suasananya tidak nyaman",negatif,positif,positif
+Dosennya ketinggalan teknologi dan mengajar dengan cara kuno,negatif,negatif,netral
+Hasil belajar semester ini keluar di akhir bulan Januari,netral,positif,positif
+"Dosen A menjelaskan dengan baik sedangkan dosen B biasa saja, jadi seimbang",netral,netral,positif

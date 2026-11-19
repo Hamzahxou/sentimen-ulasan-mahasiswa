@@ -1,0 +1,17 @@
+# lingkungan virtual
+venv/
+.venv/
+
+# cache Python
+__pycache__/
+*.pyc
+
+# editor dan sistem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# rahasia (jaga-jaga)
+.env
+

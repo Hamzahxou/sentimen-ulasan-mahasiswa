@@ -1,0 +1,24 @@
+{
+  "jumlah_data": 348,
+  "data_latih": 278,
+  "data_uji": 70,
+  "model_terbaik": "SVM",
+  "hasil": {
+    "Naive Bayes": {
+      "accuracy": 0.8714,
+      "precision_macro": 0.872,
+      "recall_macro": 0.872,
+      "f1_macro": 0.872,
+      "cv_f1_macro_mean": 0.7158,
+      "cv_f1_macro_std": 0.0477
+    },
+    "SVM": {
+      "accuracy": 0.8571,
+      "precision_macro": 0.8675,
+      "recall_macro": 0.8563,
+      "f1_macro": 0.8576,
+      "cv_f1_macro_mean": 0.7881,
+      "cv_f1_macro_std": 0.0267
+    }
+  }
+}
